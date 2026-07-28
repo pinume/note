@@ -258,13 +258,11 @@
 - [**OpenList**](https://github.com/OpenListTeam) · 文件列表程序
 - [**cloud-fs**](https://github.com/cloud-fs) · （无说明）
 - [**AlistGo**](https://github.com/AlistGo) · AList 文件列表项目组织
-- [**filebrowser**](https://github.com/filebrowser) · Web 文件管理器组织
 - [**syncthing**](https://github.com/syncthing) · 开源点对点文件同步项目
 
 ### U 盘系统　·　4 个主页
 
 - [**massgravel**](https://github.com/massgravel) · MAS，Windows 激活研究
-- [**666OS**](https://github.com/666OS) · （无说明）
 - [**pbatard**](https://github.com/pbatard) · Rufus 作者
 - [**Ventoy (longpanda)**](https://github.com/ventoy) · 多启动 U 盘
 
