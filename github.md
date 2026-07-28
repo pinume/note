@@ -1,17 +1,14 @@
 # GitHub 收藏整理
 
-> 按实际使用场景整理 GitHub 资源。点击分类即可展开，项目名称可直达对应仓库或主页。
+> 按实际使用场景整理 GitHub 资源。项目名称可直达对应仓库或主页。
 
-| Star 收藏 | Following 关注 | 推荐补充 |
-| :---: | :---: | :---: |
-| **173** | **48** | **14** |
+**Star 收藏：173　　Following 关注：48　　推荐补充：14**
 
 ---
 
 ## Star 收藏
 
-<details>
-<summary><strong>Agent Skills、编码与内容工具　·　18 个项目</strong></summary>
+### Agent Skills、编码与内容工具　·　18 个项目
 
 - [**andrej-karpathy-skills**](https://github.com/multica-ai/andrej-karpathy-skills) · 派生自 Karpathy 的 LLM 编码建议
 - [**cc-switch**](https://github.com/farion1231/cc-switch) · Claude Code / Codex 多 CLI 切换助手
@@ -32,10 +29,7 @@
 - [**old-coder**](https://github.com/AmazingAng/old-coder) · 面向 Agent 时代的证据优先开发 Skill
 - [**cloudflare/skills**](https://github.com/cloudflare/skills) · 教 Agent 使用 Cloudflare 平台的 Skills
 
-</details>
-
-<details>
-<summary><strong>演示文稿、排版与技术图　·　13 个项目</strong></summary>
+### 演示文稿、排版与技术图　·　13 个项目
 
 - [**huashu-design**](https://github.com/alchaincyf/huashu-design) · HTML 原生设计 skill
 - [**guizang-ppt-skill**](https://github.com/op7418/guizang-ppt-skill) · 归藏的 HTML 幻灯片 skill
@@ -51,10 +45,7 @@
 - [**slides_maker**](https://github.com/addsumtech/slides_maker) · 将论文、代码和文档转为原生可编辑 PPTX
 - [**fireworks-tech-graph**](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) · 自然语言生成技术图、UML 与 Agent 工作流图
 
-</details>
-
-<details>
-<summary><strong>配图、信息卡片与视觉设计　·　13 个项目</strong></summary>
+### 配图、信息卡片与视觉设计　·　13 个项目
 
 - [**infocard-skills**](https://github.com/shaom/infocard-skills) · 编辑风格信息卡片生成
 - [**ian-handdrawn-ppt**](https://github.com/helloianneo/ian-handdrawn-ppt) · 中文手绘技术 PPT 生成
@@ -70,10 +61,7 @@
 - [**sun-felt-wechat-illustrator**](https://github.com/sunyifeng11111/sun-felt-wechat-illustrator) · 中文公众号 3D 毛毡风封面与配图 Skill
 - [**guizang-social-card-skill**](https://github.com/op7418/guizang-social-card-skill) · 小红书图文与公众号封面生成 Skill
 
-</details>
-
-<details>
-<summary><strong>视频创作 Skills　·　8 个项目</strong></summary>
+### 视频创作 Skills　·　8 个项目
 
 - [**handdraw-story-video**](https://github.com/xiejunjie524/handdraw-story-video) · 手绘故事插图渐进上色视频
 - [**gbro-collage-broll**](https://github.com/pyang5166/gbro-collage-broll) · 半调纸拼贴 B-roll 生成
@@ -84,10 +72,7 @@
 - [**blcaptain-lingjian-video**](https://github.com/dososo/blcaptain-lingjian-video) · 可逐环节审核的中文短视频生成 Skill
 - [**story-to-handdrawn-video**](https://github.com/gnipbao/story-to-handdrawn-video) · 中文故事或有序图片转手绘日记漫画动画 Skill
 
-</details>
-
-<details>
-<summary><strong>AI Agent、检索与安全　·　15 个项目</strong></summary>
+### AI Agent、检索与安全　·　15 个项目
 
 - [**deep-searcher**](https://github.com/zilliztech/deep-searcher) · 面向私有数据的深度研究工具
 - [**obscura**](https://github.com/h4ckf0r0day/obscura) · 面向 Agent 和抓取的无头浏览器
@@ -105,10 +90,7 @@
 - [**cua**](https://github.com/trycua/cua) · 跨系统 Computer-Use 驱动、集群与评测平台
 - [**wigolo**](https://github.com/KnockOutEZ/wigolo) · 面向编码 Agent 的本地优先搜索与抓取 MCP
 
-</details>
-
-<details>
-<summary><strong>终端、远程与传输　·　18 个项目</strong></summary>
+### 终端、远程与传输　·　18 个项目
 
 - [**Surge（下载器）**](https://github.com/SurgeDM/Surge) · TUI 下载管理器（非 Surge 代理）
 - [**intelligent-terminal**](https://github.com/microsoft/intelligent-terminal) · 集成 Agent 能力的 Windows Terminal 分支
@@ -129,10 +111,7 @@
 - [**tty7**](https://github.com/l0ng-ai/tty7) · Rust 编写的终端、SSH 与编码 Agent 工作台
 - [**con-terminal**](https://github.com/nowledge-co/con-terminal) · 内置 AI Harness 的原生终端模拟器
 
-</details>
-
-<details>
-<summary><strong>代理网络　·　21 个项目</strong></summary>
+### 代理网络　·　21 个项目
 
 - [**sing-box**](https://github.com/SagerNet/sing-box) · 通用代理平台
 - [**mihomo**](https://github.com/MetaCubeX/mihomo) · Clash.Meta 内核
@@ -156,10 +135,7 @@
 - [**KumoApp**](https://github.com/ProjectKumo/KumoApp) · macOS 上的 Mihomo 客户端
 - [**anytls-rs**](https://github.com/jxo-me/anytls-rs) · AnyTLS 的 Rust 实现，缓解 TLS-in-TLS 指纹
 
-</details>
-
-<details>
-<summary><strong>视频、音频与图像工具　·　22 个项目</strong></summary>
+### 视频、音频与图像工具　·　22 个项目
 
 - [**Recordly**](https://github.com/webadderallorg/Recordly) · 免编辑录演示视频
 - [**lux**](https://github.com/iawia002/lux) · 视频下载 CLI
@@ -184,10 +160,7 @@
 - [**image-3d**](https://github.com/animede/image-3d) · 图像转 3D 打印模型
 - [**ComfyUI-Crystools_extend**](https://github.com/lihaoyun6/ComfyUI-Crystools_extend) · ComfyUI-Crystools 扩展包
 
-</details>
-
-<details>
-<summary><strong>PDF、Office 与文档处理　·　9 个项目</strong></summary>
+### 文档、文件与数据处理　·　12 个项目
 
 - [**marker**](https://github.com/datalab-to/marker) · PDF 高精度转 Markdown / JSON
 - [**pdf-craft**](https://github.com/oomol-lab/pdf-craft) · PDF 转换（扫描书处理）
@@ -198,20 +171,11 @@
 - [**Pdf_Tools**](https://github.com/Karna14314/Pdf_Tools) · Android 端离线隐私优先 PDF 编辑工具
 - [**bento**](https://github.com/nyblnet/bento) · 集成在单个文件中的轻量 Office 套件
 - [**OfficeCLI**](https://github.com/iOfficeAI/OfficeCLI) · AI Agent 的 Office 自动化 CLI
-
-</details>
-
-<details>
-<summary><strong>文件、数据与跨平台工具　·　3 个项目</strong></summary>
-
 - [**FileFluss**](https://github.com/rana-gmbh/FileFluss) · 跨云盘 / 本地文件管理
 - [**magika**](https://github.com/google/magika) · Google 的 AI 文件内容类型识别工具
 - [**dataset-viewer**](https://github.com/stardustai/dataset-viewer) · 支持 WebDAV、S3、SSH、本地和 Hugging Face 的数据集查看器
 
-</details>
-
-<details>
-<summary><strong>VPS 与系统运维　·　7 个项目</strong></summary>
+### VPS 与系统运维　·　7 个项目
 
 - [**glances**](https://github.com/nicolargo/glances) · 跨平台系统监控（top / htop 替代）
 - [**reinstall**](https://github.com/bin456789/reinstall) · 一键 DD / 重装系统脚本
@@ -221,10 +185,7 @@
 - [**debi**](https://github.com/bohanwood/debi) · VPS 重装为精简 Debian
 - [**netwatch**](https://github.com/matthart1983/netwatch) · 终端实时网络诊断
 
-</details>
-
-<details>
-<summary><strong>Windows 系统工具　·　8 个项目</strong></summary>
+### 桌面操作系统工具（Windows／macOS／iOS）　·　12 个项目
 
 - [**optimizerDuck**](https://github.com/itsfatduck/optimizerDuck) · Windows 优化工具
 - [**carrier-ims-for-pixel**](https://github.com/ryfineZ/carrier-ims-for-pixel) · Pixel IMS / VoLTE / VoWiFi 工具箱
@@ -234,21 +195,12 @@
 - [**terminal**](https://github.com/microsoft/terminal) · Windows Terminal 与控制台宿主
 - [**PowerToys**](https://github.com/microsoft/PowerToys) · Windows 效率增强工具合集
 - [**windhawk**](https://github.com/ramensoftware/windhawk) · Windows 程序自定义 Mod 市场
-
-</details>
-
-<details>
-<summary><strong>macOS、iOS 与移动设备　·　4 个项目</strong></summary>
-
 - [**Mole**](https://github.com/tw93/Mole) · 终端里清理 / 分析 / 监控 Mac
 - [**mac-mouse-fix**](https://github.com/noah-nuebling/mac-mouse-fix) · 鼠标增强
 - [**MacSift**](https://github.com/Lcharvol/MacSift) · macOS 磁盘清理
 - [**ios-location-spoofer**](https://github.com/mekos2772/ios-location-spoofer) · 无需越狱的 iOS GPS 模拟
 
-</details>
-
-<details>
-<summary><strong>Markdown 与桌面效率　·　6 个项目</strong></summary>
+### 桌面效率与字体　·　8 个项目
 
 - [**whiteboard**](https://github.com/zkbys/whiteboard) · 面向 AI 协作的轻量白板项目
 - [**MiaoYan 妙言**](https://github.com/tw93/MiaoYan) · 轻量 Markdown 写作
@@ -256,19 +208,10 @@
 - [**dorso**](https://github.com/tldev/dorso) · 驼背时模糊屏幕提醒
 - [**AirPosture**](https://github.com/allenv0/AirPosture) · AirPods 姿势教练
 - [**PawPal**](https://github.com/zebangeth/PawPal) · 桌面小狗，提醒休息 / 喝水 / 专注
-
-</details>
-
-<details>
-<summary><strong>字体　·　2 个项目</strong></summary>
-
 - [**maple-font**](https://github.com/subframe7536/maple-font) · Maple Mono 圆角等宽字体
 - [**IoskeleyMono**](https://github.com/ahatem/IoskeleyMono) · 模仿 Berkeley Mono 的 Iosevka 配置
 
-</details>
-
-<details>
-<summary><strong>学习与教程　·　6 个项目</strong></summary>
+### 学习与教程　·　6 个项目
 
 - [**Python-100-Days**](https://github.com/jackfrued/Python-100-Days) · Python 从新手到大师
 - [**walter201230/Python**](https://github.com/walter201230/Python) · 小白 Python 教程
@@ -277,14 +220,11 @@
 - [**Python-for-Freshmen-2026**](https://github.com/jackfrued/Python-for-Freshmen-2026) · Python 入门（2026 版）
 - [**Python_Programming**](https://github.com/square1979/Python_Programming) · 《Python 编程：从入门到实践》
 
-</details>
-
 ---
 
 ## Following 关注
 
-<details>
-<summary><strong>代理网络　·　12 个主页</strong></summary>
+### 代理网络　·　12 个主页
 
 - [**SagerNet**](https://github.com/SagerNet) · sing-box 组织
 - [**MetaCubeX**](https://github.com/MetaCubeX) · mihomo 组织
@@ -299,10 +239,7 @@
 - [**TributePaulWalker**](https://github.com/TributePaulWalker) · Surge 规则（Brian，重庆）
 - [**daeuniverse**](https://github.com/daeuniverse) · 基于 eBPF 的高性能网络工具组织
 
-</details>
-
-<details>
-<summary><strong>终端 Shell　·　9 个主页</strong></summary>
+### 终端 Shell　·　9 个主页
 
 - [**Homebrew**](https://github.com/Homebrew) · macOS 包管理器
 - [**fish-shell**](https://github.com/fish-shell) · 用户友好的 shell
@@ -314,10 +251,7 @@
 - [**tmux**](https://github.com/tmux) · tmux 终端多路复用器组织
 - [**browser-use**](https://github.com/browser-use) · 浏览器自动化与 AI Agent 工具组织
 
-</details>
-
-<details>
-<summary><strong>文件自托管与同步　·　7 个主页</strong></summary>
+### 文件自托管与同步　·　7 个主页
 
 - [**nginx**](https://github.com/nginx) · web 服务器
 - [**Caddy**](https://github.com/caddyserver) · 自动 HTTPS 的 web 服务器
@@ -327,30 +261,21 @@
 - [**filebrowser**](https://github.com/filebrowser) · Web 文件管理器组织
 - [**syncthing**](https://github.com/syncthing) · 开源点对点文件同步项目
 
-</details>
-
-<details>
-<summary><strong>U 盘系统　·　4 个主页</strong></summary>
+### U 盘系统　·　4 个主页
 
 - [**massgravel**](https://github.com/massgravel) · MAS，Windows 激活研究
 - [**666OS**](https://github.com/666OS) · （无说明）
 - [**pbatard**](https://github.com/pbatard) · Rufus 作者
 - [**Ventoy (longpanda)**](https://github.com/ventoy) · 多启动 U 盘
 
-</details>
-
-<details>
-<summary><strong>媒体工具　·　4 个主页</strong></summary>
+### 媒体工具　·　4 个主页
 
 - [**OBS**](https://github.com/obsproject) · 录屏 / 直播
 - [**VideoLAN**](https://github.com/videolan) · VLC
 - [**mpv**](https://github.com/mpv-player) · 播放器
 - [**FFmpeg**](https://github.com/FFmpeg) · 音视频处理
 
-</details>
-
-<details>
-<summary><strong>开发者与文档工具　·　10 个主页</strong></summary>
+### 开发者、文档与基础设施　·　12 个主页
 
 - [**nikkinikki-org**](https://github.com/nikkinikki-org) · （无说明）
 - [**lihaoyun6**](https://github.com/lihaoyun6) · macOS 工具开发者（QuickRecorder 等）
@@ -362,23 +287,14 @@
 - [**oomol-lab**](https://github.com/oomol-lab) · OOMOL 开源项目组织
 - [**opendataloader-project**](https://github.com/opendataloader-project) · 文档解析与数据加载工具组织
 - [**datalab-to**](https://github.com/datalab-to) · 文档智能模型与工具团队
-
-</details>
-
-<details>
-<summary><strong>开发工具与基础设施　·　2 个主页</strong></summary>
-
 - [**cloudflare**](https://github.com/cloudflare) · 网络、边缘计算与开发者平台
 - [**op7418**](https://github.com/op7418) · AI 设计、课程与信息整理创作者
-
-</details>
 
 ---
 
 ## 推荐补充
 
-<details>
-<summary><strong>建议 Star　·　9 个仓库</strong></summary>
+### 建议 Star　·　9 个仓库
 
 - [**Xray-core**](https://github.com/XTLS/Xray-core) · VLESS / REALITY 本体
 - [**juicity**](https://github.com/apernet/juicity) · apernet 的 QUIC 协议（已关注组织，仓库可补 star）
@@ -390,17 +306,10 @@
 - [**DustinWin 教程合集**](https://github.com/DustinWin/dustinwin.github.io) · 实战教程 + 规则集
 - [**nezha**](https://github.com/nezhahq/nezha) · 哪吒监控，多 VPS 探针面板
 
-</details>
-
-<details>
-<summary><strong>建议 Following　·　5 个主页</strong></summary>
+### 建议 Following　·　5 个主页
 
 - [**RPRX**](https://github.com/RPRX) · Xray / REALITY 作者
 - [**fscarmen**](https://github.com/fscarmen) · WARP / sing-box 一键脚本
 - [**zonyitoo**](https://github.com/zonyitoo) · shadowsocks-rust 作者
 - [**zhboner**](https://github.com/zhboner) · realm 作者
 - [**DustinWin**](https://github.com/DustinWin) · 内核同步与教程
-
-</details>
-
----
