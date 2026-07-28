@@ -2,7 +2,7 @@
 
 > 按实际使用场景整理 GitHub 资源。项目名称可直达对应仓库或主页。
 
-**Star 收藏：173　　Following 关注：48　　推荐补充：14**
+**Star 收藏：173　　Following 关注：49　　推荐补充：14**
 
 ---
 
@@ -275,7 +275,7 @@
 - [**mpv**](https://github.com/mpv-player) · 播放器
 - [**FFmpeg**](https://github.com/FFmpeg) · 音视频处理
 
-### 开发者、文档与基础设施　·　12 个主页
+### 开发者、文档与基础设施　·　13 个主页
 
 - [**nikkinikki-org**](https://github.com/nikkinikki-org) · （无说明）
 - [**lihaoyun6**](https://github.com/lihaoyun6) · macOS 工具开发者（QuickRecorder 等）
@@ -289,6 +289,7 @@
 - [**datalab-to**](https://github.com/datalab-to) · 文档智能模型与工具团队
 - [**cloudflare**](https://github.com/cloudflare) · 网络、边缘计算与开发者平台
 - [**op7418**](https://github.com/op7418) · AI 设计、课程与信息整理创作者
+- [**Ollama**](https://github.com/ollama) · 本地大模型运行时
 
 ---
 
