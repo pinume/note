@@ -295,22 +295,7 @@
 
 ## 推荐补充
 
-### 建议 Star　·　9 个仓库
-
-- [**Xray-core**](https://github.com/XTLS/Xray-core) · VLESS / REALITY 本体
-- [**juicity**](https://github.com/apernet/juicity) · apernet 的 QUIC 协议（已关注组织，仓库可补 star）
-- [**meta-rules-dat**](https://github.com/MetaCubeX/meta-rules-dat) · mihomo / sing-box 官方规则集
-- [**Sub-Store**](https://github.com/sub-store-org/Sub-Store) · 订阅管理 / 转换
-- [**fscarmen/sing-box**](https://github.com/fscarmen/sing-box) · 一键多协议脚本（含 Hysteria2 + Realm）
-- [**DustinWin/proxy-tools**](https://github.com/DustinWin/proxy-tools) · 内核 / 面板自动同步
-- [**zashboard**](https://github.com/Zephyruso/zashboard) · 现代化 web 面板
-- [**DustinWin 教程合集**](https://github.com/DustinWin/dustinwin.github.io) · 实战教程 + 规则集
-- [**nezha**](https://github.com/nezhahq/nezha) · 哪吒监控，多 VPS 探针面板
-
-### 建议 Following　·　5 个主页
-
-- [**RPRX**](https://github.com/RPRX) · Xray / REALITY 作者
+### 建议 Following
 - [**fscarmen**](https://github.com/fscarmen) · WARP / sing-box 一键脚本
 - [**zonyitoo**](https://github.com/zonyitoo) · shadowsocks-rust 作者
 - [**zhboner**](https://github.com/zhboner) · realm 作者
-- [**DustinWin**](https://github.com/DustinWin) · 内核同步与教程
