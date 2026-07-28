@@ -4,7 +4,7 @@
 
 | Star 收藏 | Following 关注 | 推荐补充 |
 | :---: | :---: | :---: |
-| **171** | **48** | **14** |
+| **173** | **48** | **14** |
 ---
 
 ## Star 收藏
@@ -39,7 +39,7 @@
 </details>
 
 <details>
-<summary><strong>AI Skills 与内容创作　·　51 个项目</strong></summary>
+<summary><strong>AI Skills 与内容创作　·　52 个项目</strong></summary>
 
 
 **通用 / PPT / 排版**
@@ -102,6 +102,9 @@
 - [**slides_maker**](https://github.com/addsumtech/slides_maker) · 将论文、代码和文档转为原生可编辑 PPTX
 - [**fireworks-tech-graph**](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) · 自然语言生成技术图、UML 与 Agent 工作流图
 - [**cloudflare/skills**](https://github.com/cloudflare/skills) · 教 Agent 使用 Cloudflare 平台的 Skills
+
+
+- [**story-to-handdrawn-video**](https://github.com/gnipbao/story-to-handdrawn-video) · 中文故事或有序图片转手绘日记漫画动画 Skill
 
 </details>
 
@@ -194,7 +197,7 @@
 </details>
 
 <details>
-<summary><strong>PDF 与文档处理　·　6 个项目</strong></summary>
+<summary><strong>PDF 与文档处理　·　7 个项目</strong></summary>
 
 - [**pdf-craft**](https://github.com/oomol-lab/pdf-craft) · PDF 转换（扫描书处理）
 - [**pdfcraft**](https://github.com/PDFCraftTool/pdfcraft) · 浏览器端隐私优先 PDF 工具箱
@@ -204,6 +207,9 @@
 
 
 - [**Pdf_Tools**](https://github.com/Karna14314/Pdf_Tools) · Android 端离线隐私优先 PDF 编辑工具
+
+
+- [**bento**](https://github.com/nyblnet/bento) · 集成在单个文件中的轻量 Office 套件
 
 </details>
 
