@@ -1,6 +1,6 @@
 # Note · 技术笔记
 
-个人技术笔记仓库，当前收录 **11 份笔记**，主要记录 Linux/VPS 服务部署、代理网络配置、终端工具使用和常见故障排查。
+个人技术笔记仓库，当前收录 **12 份笔记**，主要记录 Linux/VPS 服务部署、代理网络配置、终端工具使用和常见故障排查。
 
 **快速导航：** [代理与网络](#代理与网络) · [开发与终端工具](#开发与终端工具) · [资源收藏](#资源收藏) · [故障排查](#故障排查)
 
@@ -21,6 +21,7 @@
 
 | 文档 | 内容 |
 | --- | --- |
+| [AI Engineer 6 个月学习路线](ai-engineer-roadmap.md) | 从零到可就业的 AI Engineer 完整路线图（编程基础 → LLM → RAG → Agent → 部署） |
 | [uv 安装与使用](uv-installation-usage.md) | Python 版本、依赖、工具、虚拟环境和项目管理 |
 | [Yazi](yazi.md) | Yazi 在 macOS、Windows、Linux 上的安装、Shell Wrapper 和快捷键 |
 | [Microsoft Edit 安装与使用](microsoft-edit.md) | Microsoft Edit 的跨平台安装、快捷键和使用场景 |
